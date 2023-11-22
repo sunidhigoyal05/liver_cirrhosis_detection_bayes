@@ -25,8 +25,7 @@ cirrhosis (PBC) of the liver carried out from 1974 to 1984.
 The data are from Kaggle. There are 1 response variable, and 19 predictor
 variables originally, some of which might be dropped depending on their relevance to
 our analysis.
-https://www.kaggle.com/datasets/joebeachcapital/cirrhosis-patient-survival-predictio
-n
+https://www.kaggle.com/datasets/joebeachcapital/cirrhosis-patient-survival-prediction
 
 ## Approach
 We propose to use robust Bayesian Regression with HMC sampling and
