@@ -1,5 +1,5 @@
 # Liver Cirrhosis Patient Survival Prediction
-DS6040 Bayesian Machine Learning - Final Project
+Authors: Sunidhi Goyal, Hana Nur
 
 ## Motivation
 Liver cirrhosis is a life-threatening condition that affects millions of
