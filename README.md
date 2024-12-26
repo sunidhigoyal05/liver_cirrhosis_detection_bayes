@@ -1,5 +1,5 @@
 # Liver Cirrhosis Patient Survival Prediction
-Authors: Sunidhi Goyal
+Author: Sunidhi Goyal
 
 ## Motivation
 Liver cirrhosis is a life-threatening condition that affects millions of
